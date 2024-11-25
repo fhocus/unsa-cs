@@ -1,0 +1,3 @@
+[submodule "db-ii/sqlito"]
+	path = db-ii/sqlito
+	url = git@github.com:fhocus/sqlito.git
