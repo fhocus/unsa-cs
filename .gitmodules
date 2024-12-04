@@ -1,3 +1,6 @@
 [submodule "db-ii/sqlito"]
 	path = db-ii/sqlito
 	url = git@github.com:fhocus/sqlito.git
+[submodule "is-ii/unrealducks"]
+	path = is-ii/unrealducks
+	url = git@github.com:fhocus/unrealducks.git
